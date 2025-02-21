@@ -15,6 +15,6 @@ To run the program, open a terminal, change to the directory of sp-analysis and 
 
 python3 sp-analysis.py
 
-You will be prompted for the absolute pathname of the csv file. Executing the program answers simple prompts given to us by our professor.
+You will be prompted for the file pathname of the csv. Executing the program answers simple prompts given to us by our professor.
 
 Enjoy!
