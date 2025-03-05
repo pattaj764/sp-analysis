@@ -13,7 +13,9 @@ Begin by downloading the requisite files sp-analysis.py and the sample data I ha
 
 To run the program, open a terminal, change to the directory of sp-analysis and run the script:
 
+```
 python3 sp-analysis.py
+```
 
 You will be prompted for the file pathname of the csv. Executing the program answers simple prompts given to us by our professor.
 
